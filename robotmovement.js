@@ -15,6 +15,7 @@ function isInfinite(str) {
     let x = 0;
     let y = 0;
 
+    
     for (let command of commands) {
 
         if (command === "R") {
